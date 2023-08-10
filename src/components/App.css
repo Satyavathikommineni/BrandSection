@@ -1,0 +1,16 @@
+.brands-container{
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;  
+  flex-wrap: wrap;
+}
+.heading{
+  font-size: 36px;
+  font-family: "Roboto";
+  padding: 20px;
+}
